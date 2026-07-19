@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+faiss-cpu
+langgraph
+groq
+python-dotenv
+joblib
+scikit-learn
+datasets
